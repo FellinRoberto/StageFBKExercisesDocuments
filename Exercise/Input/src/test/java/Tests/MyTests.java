@@ -9,7 +9,7 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple App.
+ * java -cp input.jar:/home/rfellin/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar junit.textui.TestRunner Tests.MyTests
  */
 public class MyTests extends TestCase{
 	
