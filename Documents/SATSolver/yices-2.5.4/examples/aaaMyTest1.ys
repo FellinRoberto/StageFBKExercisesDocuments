@@ -1,0 +1,5 @@
+(define x::int)
+(define y::int)
+(define f::(-> int int))
+(assert (= x y))
+(check)
